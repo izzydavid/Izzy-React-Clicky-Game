@@ -3,12 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "follow-redirects": "^1.14.7",
     "immer": "^9.0.2",
-    "node-forge": "^0.10.0",
+    "node-forge": "^1.2.1",
     "object-path": "^0.11.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "^4.0.3"
+    "react-scripts": "^5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
